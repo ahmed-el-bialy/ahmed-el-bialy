@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00778C,100:00D9FF&height=180&section=header&animation=fadeIn" width="100%" alt="Header Wave" />
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+El-Bialy;Flutter+Developer+%7C+Clean+Architecture;Building+High-Performance+Mobile+Apps;Final-Year+AI+Student+%7C+Open+to+Junior+Roles" alt="Typing Animation" />
 </h1>
@@ -18,7 +22,9 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00778C,100:00D9FF&height=4&width=100%25" width="100%" alt="divider" />
+</p>
 
 ## 🧑‍💻 About Me
 
@@ -33,7 +39,9 @@
 - 💬 Ask me about **Flutter, Dart, BLoC/Cubit, Firebase, Clean Architecture**
 - 📫 Reach me at: **ah.elbialy.dev@gmail.com** or [WhatsApp](https://wa.me/201022121573)
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00778C,100:00D9FF&height=4&width=100%25" width="100%" alt="divider" />
+</p>
 
 ## 💼 Experience
 
@@ -49,7 +57,9 @@
 - Built **SkyCast**, a weather app with dynamic theming and automated BLoC state management
 - Practiced Clean Architecture and state management patterns (BLoC, Cubit, Provider) under industry mentorship
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00778C,100:00D9FF&height=4&width=100%25" width="100%" alt="divider" />
+</p>
 
 ## 🎓 Education & Certifications
 
@@ -66,7 +76,9 @@
 `Feb 2026 — Apr 2026`
 - Intensive training on mobile development standards and industry best practices
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00778C,100:00D9FF&height=4&width=100%25" width="100%" alt="divider" />
+</p>
 
 ## 🛠️ Tech Stack
 
@@ -108,7 +120,9 @@
 ### APIs
 ![REST API](https://img.shields.io/badge/RESTful_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00778C,100:00D9FF&height=4&width=100%25" width="100%" alt="divider" />
+</p>
 
 ## 📱 Featured Projects
 
@@ -123,7 +137,9 @@
 | 💬 **[Shaats](https://github.com/ahmed-el-bialy/Shaats)** | Real-time chat app with instant messaging, live sync via Firestore streams, and distinct sender/receiver bubbles | Flutter, Firebase, Firestore | [Source](https://github.com/ahmed-el-bialy/Shaats) |
 | 🗂️ **[Revio](https://github.com/ahmed-el-bialy/CodeAlpha_Revio_FlashcardApp)** | Flashcard app for efficient learning — animated flip cards, quiz mode with hints, full CRUD, offline persistence | Flutter, Hive | [Source](https://github.com/ahmed-el-bialy/CodeAlpha_Revio_FlashcardApp) |
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00778C,100:00D9FF&height=4&width=100%25" width="100%" alt="divider" />
+</p>
 
 ## 📊 GitHub Stats
 
@@ -136,7 +152,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-el-bialy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" width="50%" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00778C,100:00D9FF&height=4&width=100%25" width="100%" alt="divider" />
+</p>
 
 ## 🏆 GitHub Trophies
 
@@ -144,7 +162,9 @@
   <img src="https://github-trophies.vercel.app/?username=ahmed-el-bialy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00778C,100:00D9FF&height=4&width=100%25" width="100%" alt="divider" />
+</p>
 
 ## 📈 Activity Graph
 
@@ -152,7 +172,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-el-bialy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Activity Graph" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00778C,100:00D9FF&height=4&width=100%25" width="100%" alt="divider" />
+</p>
 
 ## 🎥 YouTube & TikTok
 
@@ -173,7 +195,9 @@ I create **Flutter app reviews** and **development tutorials** across YouTube an
 - 🧠 Clean Architecture & BLoC pattern deep dives
 - 🚀 Quick tips for junior developers (TikTok shorts)
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00778C,100:00D9FF&height=4&width=100%25" width="100%" alt="divider" />
+</p>
 
 ## 🔗 Connect With Me
 
@@ -198,7 +222,9 @@ I create **Flutter app reviews** and **development tutorials** across YouTube an
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00778C,100:00D9FF&height=4&width=100%25" width="100%" alt="divider" />
+</p>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
@@ -207,3 +233,5 @@ I create **Flutter app reviews** and **development tutorials** across YouTube an
 <p align="center">
   <b>💙 Thanks for visiting! Let's build something amazing together! 🚀</b>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00778C,100:00D9FF&height=100&section=footer&animation=fadeIn" width="100%" alt="Footer Wave" />
