@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00778C,100:00D9FF&height=180&section=header&animation=fadeIn" width="100%" alt="Header Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00778C,100:00D9FF&height=120&section=header&animation=fadeIn" width="100%" alt="Header Wave" />
 </p>
 
 <h1 align="center">
@@ -20,6 +20,15 @@
   <a href="https://wa.me/201022121573" target="_blank">
     <img src="https://img.shields.io/badge/Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
+</p>
+
+<p align="center">
+  <a href="#-about-me">About</a> •
+  <a href="#-experience">Experience</a> •
+  <a href="#️-tech-stack">Tech Stack</a> •
+  <a href="#-featured-projects">Projects</a> •
+  <a href="#-github-stats">Stats</a> •
+  <a href="#-connect-with-me">Contact</a>
 </p>
 
 <p align="center">
@@ -82,43 +91,20 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=dart,flutter,python,cpp,androidstudio,apple,firebase,git,github,figma,vscode,postman&theme=dark&perline=12" alt="Core Tech Stack" />
+</p>
 
-### Frameworks & Platforms
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-
-### State Management
-![BLoC](https://img.shields.io/badge/BLoC%2FCubit-00D9FF?style=for-the-badge&logo=flutter&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-FF6B6B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### Networking
-![Dio](https://img.shields.io/badge/Dio-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=android&logoColor=white)
-
-### Databases
-![Hive](https://img.shields.io/badge/Hive-FFCC00?style=for-the-badge&logo=hive&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Architecture
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-6C63FF?style=for-the-badge&logo=architecture&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-FF6B9D?style=for-the-badge&logo=pattern&logoColor=white)
-
-### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### APIs
-![REST API](https://img.shields.io/badge/RESTful_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/BLoC%2FCubit-00D9FF?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC/Cubit" height="32" />
+  <img src="https://img.shields.io/badge/Provider-FF6B6B?style=for-the-badge&logo=flutter&logoColor=white" alt="Provider" height="32" />
+  <img src="https://img.shields.io/badge/Dio%20%2F%20Retrofit-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dio / Retrofit" height="32" />
+  <img src="https://img.shields.io/badge/Hive-FFCC00?style=for-the-badge&logo=hive&logoColor=black" alt="Hive" height="32" />
+  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firestore" height="32" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-6C63FF?style=for-the-badge" alt="Clean Architecture" height="32" />
+  <img src="https://img.shields.io/badge/MVC-FF6B9D?style=for-the-badge" alt="MVC" height="32" />
+  <img src="https://img.shields.io/badge/RESTful_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" height="32" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00778C,100:00D9FF&height=4&width=100%25" width="100%" alt="divider" />
@@ -234,4 +220,4 @@ I create **Flutter app reviews** and **development tutorials** across YouTube an
   <b>💙 Thanks for visiting! Let's build something amazing together! 🚀</b>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00778C,100:00D9FF&height=100&section=footer&animation=fadeIn" width="100%" alt="Footer Wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00778C,100:00D9FF&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer Wave" />
