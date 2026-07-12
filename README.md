@@ -1,11 +1,20 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+El-Bialy;Flutter+Developer+%7C+Clean+Architecture;Building+High-Performance+Mobile+Apps;App+Reviews+%26+Tutorials+on+YouTube" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+El-Bialy;Flutter+Developer+%7C+Clean+Architecture;Building+High-Performance+Mobile+Apps;Final-Year+AI+Student+%7C+Open+to+Junior+Roles" alt="Typing Animation" />
 </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmed-el-bialy&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
+  <a href="https://ahmedel-bialy.framer.website/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.youtube.com/@AhmedEl-Bialy" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://www.tiktok.com/@ahmedelbialydev" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+  <a href="https://wa.me/201022121573" target="_blank">
+    <img src="https://img.shields.io/badge/Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
 
@@ -13,32 +22,49 @@
 
 ## 🧑‍💻 About Me
 
-**Flutter Developer** specialized in building **high-performance mobile applications** using **Clean Architecture** and **BLoC/Cubit**. Passionate about writing **clean, scalable code** and delivering **seamless UI/UX**. Proven track record with **6+ projects** showcasing expertise in **API integration, Firebase, and local databases**.
+**Flutter Developer** specialized in building **high-performance mobile applications** using **Clean Architecture** and **BLoC/Cubit**. Passionate about writing **clean, scalable code** and delivering **seamless UI/UX** — with a track record of **6+ shipped projects** covering API integration, Firebase, and local databases.
 
-- 🔭 Currently working on **Flutter projects with Clean Architecture**
-- 🌱 Learning **Advanced Flutter patterns & performance optimization**
-- 🎓 **3rd-year Student** at Kafr El-Sheikh University (Class of 2027)
-- 🎥 Sharing app reviews & tutorials on [YouTube](https://www.youtube.com/@AhmedEl-Bialy)
+- 🔭 Currently building **Flutter apps with Clean Architecture** — latest is **Quotely**, a dark-themed quotes app
+- 🌱 Deepening my skills in **Dependency Injection, Testing, Riverpod & Play Store deployment**
+- 🎓 **Final-year AI Student** at Kafrelsheikh University (Class of 2027)
+- 🎥 Reviewing apps & teaching Flutter on [YouTube](https://www.youtube.com/@AhmedEl-Bialy) and [TikTok](https://www.tiktok.com/@ahmedelbialydev)
+- 🌐 Check out my work on my [Portfolio Website](https://ahmedel-bialy.framer.website/)
 - 📍 Based in **El Mansoura, Ad Daqahliyah, Egypt**
-- 💬 Ask me about **Flutter, Dart, BLoC, Firebase, Clean Architecture**
-- 📫 Reach me at: **ah.elbialy.dev@gmail.com**
+- 💬 Ask me about **Flutter, Dart, BLoC/Cubit, Firebase, Clean Architecture**
+- 📫 Reach me at: **ah.elbialy.dev@gmail.com** or [WhatsApp](https://wa.me/201022121573)
+
+---
+
+## 💼 Experience
+
+### 📱 Independent Flutter Developer
+`2026 — Present`
+- Building and shipping full production-style apps solo — architecture, UI, API integration, and deployment prep
+- Latest release: **Movura**, a movie & TV tracking app powered by the TMDB API with complex JSON parsing and dynamic UI
+- Applies security best practices: environment variables for API keys, proper `.gitignore` configuration
+
+### 🎯 Mobile Development Trainee | Sprints x Microsoft Summer Camp
+`Feb 2026 — Apr 2026`
+- Built **Flux Store**, an e-commerce app with product catalogs and REST API integration
+- Built **SkyCast**, a weather app with dynamic theming and automated BLoC state management
+- Practiced Clean Architecture and state management patterns (BLoC, Cubit, Provider) under industry mentorship
 
 ---
 
 ## 🎓 Education & Certifications
 
-### 🏫 B.Sc. Student | Kafr El-Sheikh University
-`2023 — 2027 (Expected)`
-- **3rd-year Student** — Class of 2027
-- Focusing on **Software Engineering principles** and **Problem Solving**
+### 🏫 B.Sc. Student, Artificial Intelligence | Kafrelsheikh University
+`2023 — 2027 (Final Year)`
+- **4th-year student**, graduating in 2027
+- Focus on **Software Engineering principles**, **AI fundamentals**, and **Problem Solving**
 
 ### 📜 The Complete Flutter & Dart Development Course | Udemy
 `Certification`
-- Comprehensive certification covering **advanced Flutter concepts**, **State Management**, and **Architecture**
+- Advanced Flutter concepts, state management, and architecture
 
 ### 💼 Mobile Development Trainee | Sprints x Microsoft Summer Camp
-`Training`
-- Intensive training focused on **mobile development standards** and **industry best practices**
+`Feb 2026 — Apr 2026`
+- Intensive training on mobile development standards and industry best practices
 
 ---
 
@@ -58,6 +84,10 @@
 ![BLoC](https://img.shields.io/badge/BLoC%2FCubit-00D9FF?style=for-the-badge&logo=flutter&logoColor=white)
 ![Provider](https://img.shields.io/badge/Provider-FF6B6B?style=for-the-badge&logo=flutter&logoColor=white)
 
+### Networking
+![Dio](https://img.shields.io/badge/Dio-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=android&logoColor=white)
+
 ### Databases
 ![Hive](https://img.shields.io/badge/Hive-FFCC00?style=for-the-badge&logo=hive&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -73,6 +103,7 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### APIs
 ![REST API](https://img.shields.io/badge/RESTful_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -81,16 +112,16 @@
 
 ## 📱 Featured Projects
 
-> 💡 **Check out my pinned repositories below** for detailed code, architecture breakdowns, and live demos.
+> 💡 All projects below are live on my GitHub — click through for source code, and watch the demo where available.
 
-| # | Project Focus | Tech Stack | Highlights |
-|---|--------------|------------|------------|
-| 1 | **E-Commerce App** | Flutter, BLoC, Clean Arch, Firebase | Auth, Cart, Payment, Admin Panel |
-| 2 | **Social Media App** | Flutter, BLoC, REST API, Hive | Real-time feed, Offline support |
-| 3 | **Task Manager** | Flutter, Cubit, Firebase, Notifications | CRUD, Reminders, Cloud sync |
-| 4 | **News Reader** | Flutter, BLoC, REST API, Local DB | Caching, Search, Bookmarks |
-| 5 | **Weather App** | Flutter, BLoC, API Integration | Location-based, 7-day forecast |
-| 6 | **Portfolio Template** | Flutter, Provider, Animations | Responsive, Custom animations |
+| Project | Description | Tech Stack | Links |
+|---|---|---|---|
+| 🎬 **[Movura](https://github.com/ahmed-el-bialy/Movura)** | Premium movie & TV series tracker using the TMDB API — dynamic content discovery, real-time updates, and intelligent search suggestions | Flutter, Clean Architecture, TMDB API | [Source](https://github.com/ahmed-el-bialy/Movura) |
+| 🛒 **[FluxStore](https://github.com/ahmed-el-bialy/flux-store)** | High-performance e-commerce app with real-time product data — chip-filtered category search, product reviews, favorites, persistent bottom nav | Flutter, Dio, Service Layer, DummyJSON API | [Source](https://github.com/ahmed-el-bialy/flux-store) · [Demo](https://youtube.com/shorts/PIg1rYA0CkQ) |
+| 📰 **[NewsCloud](https://github.com/ahmed-el-bialy/News-Cloud)** | Fast news aggregator with full Arabic RTL support, in-app WebView reading, and country-specific filtering | Flutter, Retrofit, Repository Pattern | [Source](https://github.com/ahmed-el-bialy/News-Cloud) · [Demo](https://youtube.com/shorts/Sxs8R9YPmBY) |
+| ⛅ **[SkyCast](https://github.com/ahmed-el-bialy/Sky-Cast)** | Minimal weather app with real-time forecasts, weather-adaptive UI, and autocomplete city search | Flutter, Clean Architecture, WeatherAPI.com | [Source](https://github.com/ahmed-el-bialy/Sky-Cast) · [Demo](https://youtube.com/shorts/u5JjIphdrAM) |
+| 💬 **[Shaats](https://github.com/ahmed-el-bialy/Shaats)** | Real-time chat app with instant messaging, live sync via Firestore streams, and distinct sender/receiver bubbles | Flutter, Firebase, Firestore | [Source](https://github.com/ahmed-el-bialy/Shaats) |
+| 🗂️ **[Revio](https://github.com/ahmed-el-bialy/CodeAlpha_Revio_FlashcardApp)** | Flashcard app for efficient learning — animated flip cards, quiz mode with hints, full CRUD, offline persistence | Flutter, Hive | [Source](https://github.com/ahmed-el-bialy/CodeAlpha_Revio_FlashcardApp) |
 
 ---
 
@@ -110,49 +141,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmed-el-bialy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ahmed-el-bialy/ahmed-el-bialy/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
----
-
-## 🎥 YouTube Channel
-
-<p align="center">
-  <a href="https://www.youtube.com/@AhmedEl-Bialy" target="_blank">
-    <img src="https://img.shields.io/badge/Watch%20My%20Tutorials%20%26%20Reviews-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" />
-  </a>
-</p>
-
-I create **Flutter app reviews** and **development tutorials** on my YouTube channel. I break down real-world apps, discuss architecture decisions, and share tips for writing clean, maintainable Flutter code.
-
-**Content includes:**
-- 📱 In-depth app reviews (architecture, UI/UX, performance)
-- 🛠️ Flutter tutorials & best practices
-- 🧠 Clean Architecture & BLoC pattern deep dives
-- 🚀 Tips for junior developers
-
----
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/ahmedel-bialy" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.youtube.com/@AhmedEl-Bialy" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="mailto:ah.elbialy.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://github-trophies.vercel.app/?username=ahmed-el-bialy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -161,6 +150,52 @@ I create **Flutter app reviews** and **development tutorials** on my YouTube cha
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-el-bialy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Activity Graph" />
+</p>
+
+---
+
+## 🎥 YouTube & TikTok
+
+<p align="center">
+  <a href="https://www.youtube.com/@AhmedEl-Bialy" target="_blank">
+    <img src="https://img.shields.io/badge/Watch%20My%20Tutorials%20%26%20Reviews-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" />
+  </a>
+  <a href="https://www.tiktok.com/@ahmedelbialydev" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20on%20TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+</p>
+
+I create **Flutter app reviews** and **development tutorials** across YouTube and TikTok — breaking down real-world apps, discussing architecture decisions, and sharing tips for writing clean, maintainable Flutter code.
+
+**Content includes:**
+- 📱 In-depth app reviews (architecture, UI/UX, performance)
+- 🛠️ Flutter tutorials & best practices
+- 🧠 Clean Architecture & BLoC pattern deep dives
+- 🚀 Quick tips for junior developers (TikTok shorts)
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://ahmedel-bialy.framer.website/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/ahmedel-bialy" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/@AhmedEl-Bialy" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://www.tiktok.com/@ahmedelbialydev" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+  <a href="mailto:ah.elbialy.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/201022121573" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
 </p>
 
 ---
