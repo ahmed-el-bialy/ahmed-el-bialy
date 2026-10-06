@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmed-el-bialy&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
-  <a href="https://ahmedel-bialy.framer.website/" target="_blank">
+  <a href="https://ahmed-el-bialy.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.youtube.com/@AhmedEl-Bialy" target="_blank">
