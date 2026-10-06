@@ -43,7 +43,7 @@
 - 🌱 Deepening my skills in **Dependency Injection, Testing, Riverpod & Play Store deployment**
 - 🎓 **Final-year AI Student** at Kafrelsheikh University (Class of 2027)
 - 🎥 Reviewing apps & teaching Flutter on [YouTube](https://www.youtube.com/@AhmedEl-Bialy) and [TikTok](https://www.tiktok.com/@ahmedelbialydev)
-- 🌐 Check out my work on my [Portfolio Website](https://ahmedel-bialy.framer.website/)
+- 🌐 Check out my work on my [Portfolio Website](https://ahmed-el-bialy.vercel.app/)
 - 📍 Based in **El Mansoura, Ad Daqahliyah, Egypt**
 - 💬 Ask me about **Flutter, Dart, BLoC/Cubit, Firebase, Clean Architecture**
 - 📫 Reach me at: **ah.elbialy.dev@gmail.com** or [WhatsApp](https://wa.me/201022121573)
@@ -188,7 +188,7 @@ I create **Flutter app reviews** and **development tutorials** across YouTube an
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://ahmedel-bialy.framer.website/" target="_blank">
+  <a href="https://ahmed-el-bialy.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/ahmedel-bialy" target="_blank">
